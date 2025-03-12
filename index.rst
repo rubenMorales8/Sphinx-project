@@ -21,6 +21,7 @@ and configure essential software components for massively parallel applications.
 
 The course will conclude by showcasing and discussing real deployments.
 
+
 Course Info
 ----------
 * About us
@@ -39,3 +40,53 @@ Course Info
    grading
    reports
    groups
+
+=============================
+ToDO List
+----------
+=============================
+
+
+Schedule
+--------
+
+- Day 1
+- Day 2
+- Day 3
+- Day 4
+- Day 5
+- Day 6
+- Day 7
+- Day 8
+- Day 9
+- Day 10
+
+
+Networking Basics
+-----------------
+
+- OSI Model
+- Network Packets
+- Domain Name System (DNS)
+- Dynamic Host Configuration Protocol (DHCP)
+
+=============================
+
+Exercises
+-----------------
+- Exercise 1: Configuring hardware and network
+- Exercise 2: Setting up a minimal netboot environment
+- Exercise 3: Setting up a netboot environment with cobbler
+- Exercise 4: Setting up a cluster environment
+- Exercise 5: RPM repositories with Cobbler
+- Exercise 6: Software modules
+- Exercise 7: Configuration with Ansible
+- Exercise 8: Creating a Batch System with Slurm
+- Exercise 9: OpenMPI and InfiniBand
+- Exercise 10: Monitoring with Ganglia
+- Complete
+
+Appendix
+-----------------
+- tmux Quick Start
+- SSH Client Configuration
