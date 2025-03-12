@@ -30,10 +30,6 @@ Course Info
 * Reports
 * Groups
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
     #  other .rst files to create
    about_us
    how_this_course_works
@@ -90,3 +86,11 @@ Appendix
 -----------------
 - tmux Quick Start
 - SSH Client Configuration
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Course Info
+
+   about_us
+   how_this_course_works
+   groups

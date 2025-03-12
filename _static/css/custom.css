@@ -1,4 +1,4 @@
-/* Change the sidebar header box background color to green */
+/* Side bar color to ORNL green */
 .wy-side-nav-search {
     background-color: #007833 !important;
 }
@@ -7,8 +7,8 @@
     color: #ffffff !important;
 }
 
-/* Insert a logo before the h1 title in the #tutorial-documentation section */
-#tutorial-documentation h1::before {
+/* Insert the logo */
+#welcome-to-the-high-performance-computing-technologies-course h1::before {
     content: "";
     display: inline-block;
     vertical-align: middle;
