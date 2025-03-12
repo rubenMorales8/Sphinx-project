@@ -22,24 +22,20 @@ and configure essential software components for massively parallel applications.
 The course will conclude by showcasing and discussing real deployments.
 
 
-Course Info
-----------
-* About us
-* How this course works
-* Grading
-* Reports
-* Groups
 
-    #  other .rst files to create
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Course Info
+
    about_us
    how_this_course_works
-   grading
-   reports
    groups
-
 =============================
+
 ToDO List
 ----------
+
 =============================
 
 
@@ -82,15 +78,9 @@ Exercises
 - Exercise 10: Monitoring with Ganglia
 - Complete
 
+=================
+
 Appendix
 -----------------
 - tmux Quick Start
 - SSH Client Configuration
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Course Info
-
-   about_us
-   how_this_course_works
-   groups

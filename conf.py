@@ -7,8 +7,8 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'HPC-Tech_course'
-copyright = '2025, Fernando Posada, Richard Berger, Ruben Morales'
-author = 'Fernando Posada, Richard Berger, Ruben Morales'
+copyright = '2025, Fernando Posada, Richard Berger'
+author = 'Fernando Posada, Richard Berger,'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration

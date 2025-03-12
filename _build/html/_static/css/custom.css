@@ -25,3 +25,24 @@ a:hover,
 a:active {
     color: #007833 !important;
 }
+
+/* Change sidebar section headers to green */
+.wy-menu-vertical p.caption {
+    color: #007833 !important; 
+    font-weight: bold;
+}
+
+/* Change sidebar links to white */
+.wy-menu-vertical a {
+    color: white !important;
+}
+
+/* Ensure active/hover links stay white */
+.wy-menu-vertical a:hover, .wy-menu-vertical a:focus, .wy-menu-vertical li.current a {
+    color: white !important;
+}
+ /* Ensure the active page text turns black */
+.wy-menu-vertical li.current a {
+    color: black !important;
+    font-weight: bold;
+}
