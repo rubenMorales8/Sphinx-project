@@ -1,0 +1,27 @@
+/* Change the sidebar header box background color to green */
+.wy-side-nav-search {
+    background-color: #007833 !important;
+}
+
+.wy-side-nav-search a.icon.icon-home {
+    color: #ffffff !important;
+}
+
+/* Insert a logo before the h1 title in the #tutorial-documentation section */
+#tutorial-documentation h1::before {
+    content: "";
+    display: inline-block;
+    vertical-align: middle;
+    background: url("../logo.png") no-repeat;
+    background-size: contain;
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+}
+
+a,
+a:visited,
+a:hover,
+a:active {
+    color: #007833 !important;
+}
